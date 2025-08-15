@@ -2,6 +2,7 @@ __author__ = "Jashandeep Kaur"
 __version__ = "1.0.0"
 
 
+
 from email_validator import validate_email, EmailNotValidError
 from patterns.observer.observer import Observer
 from utility.file_utils import simulate_send_email
