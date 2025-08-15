@@ -1,6 +1,7 @@
 __author__ = "Jashandeep Kaur"
 __version__ = "1.0.0"
 
+
 from datetime import date
 from abc import ABC, abstractmethod
 from patterns.observer.observer import Observer
