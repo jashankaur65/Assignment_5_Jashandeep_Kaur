@@ -1,6 +1,7 @@
 __author__ = "Jashandeep Kaur"
 __version__ = "1.0.0"
 
+
 from datetime import date, timedelta
 from bank_account.bank_account import BankAccount
 from patterns.strategy.management_fee_strategy import ManagementFeeStrategy
