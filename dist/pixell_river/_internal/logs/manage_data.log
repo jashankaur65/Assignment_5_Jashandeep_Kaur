@@ -1,0 +1,10 @@
+2025-04-25 02:26:27,714 - ERROR - Unable to create client: First name cannot be blank.
+2025-04-25 02:26:27,720 - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+2025-04-25 02:26:27,721 - ERROR - Unable to create bank account: time data '20230915' does not match format '%Y-%m-%d'
+2025-04-25 02:26:27,721 - ERROR - Unable to create bank account: Not a valid account type.
+2025-04-25 02:26:27,721 - ERROR - Unable to create bank account: Bank Account 20100 has an invalid Client Number: 9999
+2025-04-25 02:27:31,831 - ERROR - Unable to create client: First name cannot be blank.
+2025-04-25 02:27:31,837 - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+2025-04-25 02:27:31,837 - ERROR - Unable to create bank account: time data '20230915' does not match format '%Y-%m-%d'
+2025-04-25 02:27:31,837 - ERROR - Unable to create bank account: Not a valid account type.
+2025-04-25 02:27:31,837 - ERROR - Unable to create bank account: Bank Account 20100 has an invalid Client Number: 9999
